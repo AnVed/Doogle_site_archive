@@ -1,0 +1,52 @@
+body {
+
+	background-color: #ece5d5 !important;
+	background-image: url("../file/240_F_84556601_W71hd1xmCxZUhsscyNlokY1an7Kqx6ZJ.jpg");
+}
+
+.logo_line {
+	margin-top: 15%;
+	margin-bottom: 10%;
+	width: 100%;
+}
+
+.logo {
+	width: 350px;
+}
+
+.jumbotron {
+	background-color: #ece5d5;
+}
+
+.row {
+	border-radius: 0px 0px 0;
+	margin-right: 70px;
+	margin-left: 70px;
+}
+
+.btn-group {
+	box-shadow: 0;
+	text-decoration: none;
+	color: grey;
+	outline: none;
+}
+
+
+#elements {
+	height: 28px;
+	margin-bottom: 2px;
+	background-color: white;
+	color: grey;
+	border-radius: 0px;
+	line-height: 8px;
+	outline: none;
+}
+
+#metro_select {
+	height: 28px;
+	background-color: white;
+	text-align: center;
+	color: grey;
+	border: 1px solid #ccc;
+	outline: none;
+}
