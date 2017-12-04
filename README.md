@@ -3,5 +3,4 @@ Project to course "Theory of data bases". It is the site, which includes informa
 
 Site: http://doogle.pythonanywhere.com/
 
-Created by Anastasia Ved, Anton Igoshin.
-Higher School of Economics, Faculty of Computer Science, 2017.
+Created by Anastasia Ved, Anton Igoshin. Higher School of Economics, Faculty of Computer Science, 2017.
